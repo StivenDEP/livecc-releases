@@ -1,0 +1,46 @@
+name: Bug report
+description: Something in Live CC does not work as it should
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where
+      options:
+        - Music / queue / player
+        - Lyrics bar
+        - Karaoke
+        - Rooms
+        - Install / updates
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser Live CC runs in
+      options:
+        - Brave
+        - Chrome
+        - Edge
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Live CC version
+      description: Settings > Updates shows it.
+  - type: textarea
+    id: log
+    attributes:
+      label: Log (optional)
+      description: The last lines of %LOCALAPPDATA%\LiveCC\host.log, or the output of `LiveCC.exe --check`.
+      render: text
