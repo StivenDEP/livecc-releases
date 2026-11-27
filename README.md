@@ -97,8 +97,6 @@ The bar picks the best source for every song and falls back automatically:
 > **Trouble?** Run `LiveCC.exe --check` in the install folder (`%LOCALAPPDATA%\Programs\LiveCC`). It lists
 > what Live CC needs and what it found. Logs: `%LOCALAPPDATA%\LiveCC\host.log`.
 
-Update history: [Releases](https://github.com/StivenDEP/livecc-releases/releases).
-
 ---
 
 ## Feedback
