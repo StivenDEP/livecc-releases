@@ -1,0 +1,22 @@
+name: Idea
+description: A feature or change you would like in Live CC
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What should Live CC do, and why would it help you?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Music / queue / player
+        - Lyrics bar
+        - Karaoke
+        - Rooms
+        - Other
