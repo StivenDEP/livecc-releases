@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/StivenDEP/livecc-releases/releases/download/installer/LiveCC-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%2010%20%2F%2011-2596be?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/StivenDEP/livecc-releases/releases/download/installer/LiveCC-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%2010%20%2F%2011-FF0000?style=for-the-badge&logo=windows&logoColor=white"></a>
   &nbsp;
   <a href="https://github.com/StivenDEP/livecc-releases/issues/new/choose"><img alt="Send feedback" src="https://img.shields.io/badge/Feedback-Issues-555555?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -79,7 +79,7 @@ The bar picks the best source for every song and falls back automatically:
 ## Download
 
 <p>
-  <a href="https://github.com/StivenDEP/livecc-releases/releases/download/installer/LiveCC-Setup.exe"><img alt="Download LiveCC-Setup.exe" src="https://img.shields.io/badge/LiveCC--Setup.exe-Download-2596be?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/StivenDEP/livecc-releases/releases/download/installer/LiveCC-Setup.exe"><img alt="Download LiveCC-Setup.exe" src="https://img.shields.io/badge/LiveCC--Setup.exe-Download-FF0000?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
 1. Download **`LiveCC-Setup.exe`**.
